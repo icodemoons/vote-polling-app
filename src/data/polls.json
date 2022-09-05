@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "question": "Do you love React/NextJS?",
+    "choices": [
+      {
+        "answer": "Absolutely!",
+        "votes": 3
+      },
+      { "answer": "Not really", "votes": 0 }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "Do you like Functional Programming!",
+    "choices": [
+      { "answer": "Of course", "votes": 1 },
+      { "answer": "I'm not sure", "votes": 1 },
+      { "answer": "I'm learning to love it", "votes": 0 }
+    ]
+  }
+]
